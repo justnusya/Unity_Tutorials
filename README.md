@@ -31,3 +31,4 @@ This repository contains my practice projects and exercises completed while lear
     - Jump mechanic for vertical movement
     - Interactive pickup objects (including both bonuses and penalties)
     - Tank customization (options for choosing color and tank type/form)
+- KnifeHit Game
