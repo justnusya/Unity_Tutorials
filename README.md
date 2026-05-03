@@ -32,3 +32,10 @@ This repository contains my practice projects and exercises completed while lear
     - Interactive pickup objects (including both bonuses and penalties)
     - Tank customization (options for choosing color and tank type/form)
 - KnifeHit Game
+  - Implemented a complete game cycle including the main menu and a game-over system with restart and quit options.
+  - Integrated an economy system in the shop where players can unlock new knife skins using their total score.
+  - Added a leaderboard that tracks and displays both the all-time high score and the most recent session performance.
+  - Developed gameplay with standard targets and unique Boss levels featuring unpredictable, random rotation patterns.
+  - Designed dynamic, non-static backgrounds for all menus with various moving elements instead of flat images.
+  - Optimized the game for cross-platform play, supporting both Windows and Android devices.
+  - Created seamless navigation and transitions between the start menu, shop interface, and active gameplay.
