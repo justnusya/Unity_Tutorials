@@ -23,3 +23,11 @@ This repository contains my practice projects and exercises completed while lear
     - Shine particle effect for pickup objects  
     - Background music  
     - Custom handmade assets (farm building, trees, bushes, bridge, garden)
+- Tanks
+    - Core implementation with an extended version featuring
+    - Improved environment and level design
+    - Enhanced visual experience with added particle effects
+    - Fully functional pause menu
+    - Jump mechanic for vertical movement
+    - Interactive pickup objects (including both bonuses and penalties)
+    - Tank customization (options for choosing color and tank type/form)

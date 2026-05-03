@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4189521272046807143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1869868565489829509, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_Name
+      value: Tank - Medium Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2689013987225052275, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1258583810, guid: a7f795a5044b947aa81a57a339319526, type: 3}
+    - target: {fileID: 4111692330061920161, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_Speed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111692330061920161, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_JumpForce
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111692330061920161, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_PlayerNumber
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111692330061920161, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_GroundLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111692330061920161, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_IsComputerControlled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222319254004389076, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222319254004389076, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5005485197774515329, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_Constraints
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.084683
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.8645215
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9682404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.25002107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 28.958
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507941233541339697, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7349723286311252891, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7349723286311252891, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1869868565489829509, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1917942370788880363}
+    - targetCorrespondingSourceObject: {fileID: 1869868565489829509, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2840266922273717406}
+  m_SourcePrefab: {fileID: 100100000, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+--- !u!1 &2582586701389639394 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1869868565489829509, guid: fcac4ad670851db4ab0c62df88879951, type: 3}
+  m_PrefabInstance: {fileID: 4189521272046807143}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-1917942370788880363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582586701389639394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613fdb3d456dfe940b92c5fe402374b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Tanks.Complete.PowerUpDetector
+  m_HasActivePowerUp: 0
+--- !u!114 &2840266922273717406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582586701389639394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a3c6d9a40098844b6163099a0dfad3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Tanks.Complete.PowerUpHUD
+  m_DamageReductionHUD: {fileID: 6103020118346922388, guid: 9ad06fe863d692e4a969198bd2130e8c, type: 3}
+  m_EnhancedShootingHUD: {fileID: 8791206557119173652, guid: fc7b7f2ea1b8e2949a71217d6d42bbfb, type: 3}
+  m_EnhancedSpeedHUD: {fileID: 3490176192692482045, guid: 1fb16119711fde644ab3c13dea73a863, type: 3}
+  m_EnhancedShellHUD: {fileID: 8823145779398171328, guid: 0359c7746491e7e4a889255dfd046976, type: 3}
+  m_HealingHUD: {fileID: 26534474276156039, guid: 21916af07e754774baa508caf181a2c2, type: 3}
+  m_TemporaryInvencibilityHUD: {fileID: 3069503713166740081, guid: eec776bb3b0a1004b92f888bba8d9917, type: 3}
